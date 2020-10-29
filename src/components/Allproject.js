@@ -184,7 +184,7 @@ const Allproject = () => {
 
 <ImageEvent
           date="Oct 29, 2020"
-          text="12) ."
+          text="12) Email Newsletter app"
           src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png"
           alt="Newsletter web app"
         >
