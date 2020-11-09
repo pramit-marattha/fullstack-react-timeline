@@ -198,8 +198,23 @@ const Allproject = () => {
 
 
 <ImageEvent
+          date="Nov 10, 2020"
+          text="13) Live Music Player React."
+          src="https://user-images.githubusercontent.com/37651620/98583627-c6ed5180-22ec-11eb-999d-c6921f61ac93.png"
+          alt=""
+        >
+        <div>
+        <UrlButton href="https://music-player-react.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/music-player-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
           date="Nov 15, 2020"
-          text="13) ."
+          text="14) ."
           src="https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png"
           alt=""
         >
