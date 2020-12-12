@@ -229,8 +229,103 @@ const Allproject = () => {
 
 
 <ImageEvent
-          date="Nov 15, 2020"
-          text="14) ."
+          date="Nov 20, 2020"
+          text="15) Virtual Piano (React Musical Instrument)."
+          src="https://user-images.githubusercontent.com/37651620/100707288-8ad07c80-33d2-11eb-937c-8b38bb9d8ca1.png"
+          alt="Virtual Piano"
+        >
+        <div>
+        <UrlButton href="https://virtual-piano-instrument.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/musical-instrument-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Nov 25, 2020"
+          text="16) React moodboard (drag and drop images)."
+          src="https://user-images.githubusercontent.com/37651620/101074345-bb7a0700-35c8-11eb-9bde-c9d9b12c63ba.gif"
+          alt="MoodBoard"
+        >
+        <div>
+        <UrlButton href="https://moodboard-dnd.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/mood-board-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Nov 27, 2020"
+          text="17) React Admin Dashboard."
+          src="https://user-images.githubusercontent.com/37651620/101245506-7aebcc00-3735-11eb-9bc4-94dab2475dc1.gif"
+          alt="React Admin Dashboard"
+        >
+        <div>
+        <UrlButton href="https://simple-admin-dashboard.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/website-admin-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Dec 4, 2020"
+          text="18) Wiki Search."
+          src="https://user-images.githubusercontent.com/37651620/101260703-b6988d00-3759-11eb-83dd-1b3b9242f658.gif"
+          alt="Wiki Search"
+        >
+        <div>
+        <UrlButton href="https://react-wiki-search.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/fan-wiki-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Dec 6, 2020"
+          text="19) Simple Chess Game."
+          src="https://user-images.githubusercontent.com/37651620/101364822-1b272980-38cb-11eb-8854-ecb490203bc6.png"
+          alt="Simple Chess Game"
+        >
+        <div>
+        <UrlButton href="https://simple-chess-react.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/chess-game-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+        
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Dec 9, 2020"
+          text="20) Tesla Mileage Evaluator."
+          src="https://user-images.githubusercontent.com/37651620/101777840-22dd0d00-3b1b-11eb-8686-a3db95daae8c.gif"
+          alt="Tesla Mileage Evaluator"
+        >
+        <div>
+        <UrlButton href="https://tesla-mileage.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/tesla-tracker-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+
+{/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+
+<ImageEvent
+          date="Dec 15, 2020"
+          text="21) ."
           src="https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png"
           alt=""
         >
@@ -239,8 +334,6 @@ const Allproject = () => {
             <UrlButton href="">Source Code</UrlButton>
         </div>
         </ImageEvent>
-
-
 
 
 
