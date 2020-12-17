@@ -342,7 +342,7 @@ const Allproject = () => {
 <ImageEvent
           date="Dec 15, 2020"
           text="22) ."
-          src="https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png"
+          src="https://user-images.githubusercontent.com/37651620/102473673-d7c57b80-407f-11eb-9466-d39fcb084bdc.png"
           alt=""
         >
         <div>
