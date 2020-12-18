@@ -1,4 +1,5 @@
-![Node.js CI](https://github.com/pramit-marattha/fullstack-react-timeline/workflows/Node.js%20CI/badge.svg)
+
+![FullstackProjectsTimeline](https://github.com/pramit-marattha/fullstack-react-timeline/workflows/FullstackProjectsTimeline/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
