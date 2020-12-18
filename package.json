@@ -2,7 +2,7 @@
   "name": "timeline-of-all-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pramit-marattha.github.io/fullstack-react-timeline/",
+  "homepage": "https://pramit-marattha.github.io/fullstack-react-timeline",
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
     "@testing-library/jest-dom": "^4.2.4",
