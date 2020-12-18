@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fullstack-react-timeline/static/css/main.e3eda2da.chunk.css",
+    "main.js": "/fullstack-react-timeline/static/js/main.9685dfe6.chunk.js",
+    "main.js.map": "/fullstack-react-timeline/static/js/main.9685dfe6.chunk.js.map",
+    "runtime-main.js": "/fullstack-react-timeline/static/js/runtime-main.a4ff1477.js",
+    "runtime-main.js.map": "/fullstack-react-timeline/static/js/runtime-main.a4ff1477.js.map",
+    "static/js/2.4509a265.chunk.js": "/fullstack-react-timeline/static/js/2.4509a265.chunk.js",
+    "static/js/2.4509a265.chunk.js.map": "/fullstack-react-timeline/static/js/2.4509a265.chunk.js.map",
+    "index.html": "/fullstack-react-timeline/index.html",
+    "precache-manifest.1f21cc16059f0d0efe7541cf4414fb2b.js": "/fullstack-react-timeline/precache-manifest.1f21cc16059f0d0efe7541cf4414fb2b.js",
+    "service-worker.js": "/fullstack-react-timeline/service-worker.js",
+    "static/css/main.e3eda2da.chunk.css.map": "/fullstack-react-timeline/static/css/main.e3eda2da.chunk.css.map",
+    "static/js/2.4509a265.chunk.js.LICENSE.txt": "/fullstack-react-timeline/static/js/2.4509a265.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4ff1477.js",
+    "static/js/2.4509a265.chunk.js",
+    "static/css/main.e3eda2da.chunk.css",
+    "static/js/main.9685dfe6.chunk.js"
+  ]
+}
