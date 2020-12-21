@@ -337,11 +337,25 @@ const Allproject = () => {
 
 
 {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+        
+        <ImageEvent
+          date="Dec 17, 2020"
+          text="22) Live Statistics App."
+          src="https://user-images.githubusercontent.com/37651620/102813187-79d2c400-43f0-11eb-9893-16bbed8f6a2f.png"
+          alt="Live Statistics App"
+        >
+        <div>
+        <UrlButton href="https://covid-statistics-react.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/statistics-react-web-app-project">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
 
+        
+   {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
 
 <ImageEvent
           date="Dec 15, 2020"
-          text="22) ."
+          text="23) ."
           src="https://user-images.githubusercontent.com/37651620/102473673-d7c57b80-407f-11eb-9466-d39fcb084bdc.png"
           alt=""
         >
