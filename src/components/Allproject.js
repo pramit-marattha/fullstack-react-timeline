@@ -11,10 +11,11 @@ const Allproject = () => {
           text="1) Mini Code Editor"
           src="https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png"
           alt="Mini Code Editor"
+          target="_blank"  
         >
         <div>
-        <UrlButton href="https://mini-code-editor.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
-            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/code-editor-react-web-app-project">Source Code</UrlButton>
+        <UrlButton href="https://mini-code-editor.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/code-editor-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
         
@@ -25,10 +26,11 @@ const Allproject = () => {
           text="2) Community Chat App with react and firebase"
           src="https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png"
           alt="Community Chat App with react and firebase"
+          target="_blank"
         >
         <div>
-        <UrlButton href="https://community-chat-app.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
-            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/community-chat-react-web-app-project">Source Code</UrlButton>
+        <UrlButton href="https://community-chat-app.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/community-chat-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
 
@@ -40,10 +42,11 @@ const Allproject = () => {
           text="3) Awesome Dark Mode App"
           src="https://user-images.githubusercontent.com/37651620/94997593-f2816b80-05cb-11eb-8b99-8fa1fa71fada.png"
           alt="Awesome Dark Mode"
+          target="_blank"
         >
         <div>
-        <UrlButton href="https://dark-mode-switcher.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
-            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/dark-mode-react-web-app-project">Source Code</UrlButton>
+        <UrlButton href="https://dark-mode-switcher.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/dark-mode-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
 
@@ -59,10 +62,11 @@ const Allproject = () => {
           text="4) Notetaking notebook app"
           src="https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png"
           alt="Notetaking notebook app"
+          target="_blank"
         >
         <div>
-        <UrlButton href="https://notebook-app.netlify.app/">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
-            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/notebook-react-web-app-project">Source Code</UrlButton>
+        <UrlButton href="https://notebook-app.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/notebook-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
 
