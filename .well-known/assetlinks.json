@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.pramit_marattha.twa",
+            "sha256_cert_fingerprints": [
+                "E6:9B:2A:C8:CA:63:9E:6A:84:F1:99:99:3C:28:90:37:E3:F6:D4:93:45:56:74:31:28:23:04:EF:04:1B:03:04"
+            ]
+        }
+    }
+]
