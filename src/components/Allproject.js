@@ -403,6 +403,21 @@ const Allproject = () => {
             <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/discord-clone-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
+        
+         {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+<ImageEvent
+          date="Jan 7, 2020"
+          text="25) Projects Case Study / explore and Take Note(MERN stack app)."
+          src="https://user-images.githubusercontent.com/37651620/103857695-0f53a080-50df-11eb-8645-917f939f866f.png"
+          alt="Projects Case Study / explore and Take Note"
+          target="_blank"
+        >
+        <div>
+        <UrlButton href="https://project-explore-mern.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/project-case-study-react-web-app-project" target="_blank">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
 
 
 
