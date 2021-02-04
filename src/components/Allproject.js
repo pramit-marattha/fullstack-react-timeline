@@ -422,7 +422,7 @@ const Allproject = () => {
      {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
 
 <ImageEvent
-          date="Jan 17, 2020"
+          date="Jan 17, 2021"
           text="26) Projects Progress Tracker(MERN stack app)."
           src="https://user-images.githubusercontent.com/37651620/104843313-11dda380-58f2-11eb-94c2-62bb1339a26c.png"
           alt="Projects Progress Tracker"
@@ -431,6 +431,21 @@ const Allproject = () => {
         <div>
         <UrlButton href="https://project-tracker-mern.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
             <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/project-tracker-react-web-app-project" target="_blank">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
+        
+         {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+<ImageEvent
+          date="Feb 2, 2021"
+          text="27) Goal Manager Project(MERN stack app)."
+          src="https://user-images.githubusercontent.com/37651620/106894418-0e7e5080-6717-11eb-9a4b-83bd70401dc9.png"
+          alt="Goal Manager Project"
+          target="_blank"
+        >
+        <div>
+        <UrlButton href="https://goal-manager-mern.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/goal-manager-react-web-app-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
 
