@@ -463,6 +463,21 @@ const Allproject = () => {
             <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/ecommerce-react-web-store-project" target="_blank">Source Code</UrlButton>
         </div>
         </ImageEvent>
+        
+         {/* <---------------------------------------------------------------------------------------------------------------------------------> */}
+
+<ImageEvent
+          date="March 4, 2021"
+          text="29) Musedify music player app."
+          src="https://user-images.githubusercontent.com/37651620/109965716-76748680-7d17-11eb-8eaf-356632c2327e.png"
+          alt="Musedify music player app."
+          target="_blank"
+        >
+        <div>
+        <UrlButton href="https://musedify.netlify.app/" target="_blank">Visit Site <span role="img" aria-label="celebrate" >🎉</span></UrlButton>
+            <UrlButton href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/tree/master/musedify-music-player-app" target="_blank">Source Code</UrlButton>
+        </div>
+        </ImageEvent>
 
 
 
